@@ -1,5 +1,5 @@
 ---
-title: "About Tomo"
+title: "About Tomoya"
 ---
 
 Why I am awesome. 
