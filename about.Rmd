@@ -1,5 +1,10 @@
 ---
-title: "About Tomoya"
+title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Tomoya
+- __Ocupation:__ "Graduate student at UC San Diego, majoring quantitative microbiology"
+- __Hobbies:__ Learning software development instead of studying for exams. 
+
+My CV can be downloaded from below.
+
